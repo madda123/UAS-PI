@@ -133,11 +133,20 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
 - Mendaftar
-  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
+  ![hugging 1](https://github.com/madda123/UAS-PI/blob/main/poto/hugging2.png)
 - Eksplorasi
-  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
+  ![hugging 2](https://github.com/madda123/UAS-PI/blob/main/poto/hugging1.png)
+
+  Link hugging face [Klik Disini](https://huggingface.co/maddapy)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+- Mendaftar
+  ![kaggle 1](https://github.com/madda123/UAS-PI/blob/main/poto/hugging2.png)
+- Eksplorasi
+  ![kaggle 2](https://github.com/madda123/UAS-PI/blob/main/poto/hugging1.png)
+
+  Link hugging face [Klik Disini](https://huggingface.co/maddapy)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
