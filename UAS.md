@@ -77,7 +77,7 @@ Referensi []
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 - Membuat file json
-  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/filejson.png)
+  ![Membuat file json](https://github.com/madda123/UAS-PI/blob/main/poto/filejson.png)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -96,7 +96,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
 - Membuat blog sederhana
-  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/filejson.png)
+  ![Membuat blog](https://github.com/madda123/UAS-PI/blob/main/poto/wordpress.png)
+
+  Link blog wordpress [Klik Disini](https://maddaathiarahman.wordpress.com/2023/12/17/tilawah-dengan-tartil-menghafal-dengan-kesempurnaan-pelafalan/)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
