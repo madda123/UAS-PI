@@ -20,13 +20,18 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-![Mencoba cerita pendek](https://github.com/madda123/webbasohegar/blob/main/gambar%20untuk%20md/Desain%20Web.jpg)
+![Mencoba cerita pendek](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
+
+![Mendaftarkan diri](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
+![Mencoba menyelesaikan tantangan java](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
+
+Link Profil HackerRank [1](https://www.hackerrank.com/profile/madda_athiarahm1)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
