@@ -107,11 +107,16 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial
+Mengulas tugas UTS sebelumnya, dimana saya membuat website sebagai pemenuhan tugas pada saat itu, maka izinkan saya menjelaskan project tersebut berdasarkan bagian-bagian yang ditanyakan.
 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+- Mencoba HTML dalam pembuatan website sederhana
+  ![html](https://github.com/madda123/UAS-PI/blob/main/poto/html.png)
+- Mencoba CSS untuk styling website sederhana
+  ![css](https://github.com/madda123/UAS-PI/blob/main/poto/css.png)
+- Mencoba JS untuk interaktivitas halaman web
+  ![js](https://github.com/madda123/UAS-PI/blob/main/poto/js.png)
+- Hasil pembuatan
+  ![hasil](https://github.com/madda123/UAS-PI/blob/main/poto/web.png)
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
