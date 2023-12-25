@@ -233,8 +233,16 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 - Upwork
+  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/upwork.png)
+- Toptal
+  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/toptal.png)
+- Freelancer
+  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/freelancer.png)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+- Eksplorasi Roadmap Front End Developer
+  ![roadmap](https://github.com/madda123/UAS-PI/blob/main/poto/freelancer.png)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
