@@ -77,7 +77,7 @@ Referensi []
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
 - Membuat file json
-  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/Hackerrank2.png)
+  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/filejson.png)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -94,6 +94,9 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com)
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+
+- Membuat blog sederhana
+  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/filejson.png)
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
