@@ -184,4 +184,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
+- Course Full Stack Developer Kelas FullStack
+  ![course](https://github.com/madda123/UAS-PI/blob/main/poto/course.png)
+
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
