@@ -233,9 +233,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 - Membangun Profil
-  ![linkedin1](https://github.com/madda123/UAS-PI/blob/main/poto/2.jpg)
-- Mengikuti Akun Akun Inspiratif
-  ![linkedin2](image.png)
+  ![linkedin1](https://github.com/madda123/UAS-PI/blob/main/poto/linkedin.png)
+- Mengikuti Akun-Akun Inspiratif
+  ![linkedin2](https://github.com/madda123/UAS-PI/blob/main/poto/linkedin2.png)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
