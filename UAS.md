@@ -68,6 +68,9 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
+- Mencoba mengurutkan angka dari yang terkecil sampai ke terbesar
+  ![bubblesort](https://github.com/madda123/UAS-PI/blob/main/poto/bubblesort.png)
+
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
