@@ -228,9 +228,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 - Eksplorasi
-  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/hellotalk.jpg)
+  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/Loker.png)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+
+- Upwork
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
