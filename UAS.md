@@ -27,6 +27,23 @@ Seperti yang sudah dibahas, computational thinking dapat diterapkan dalam berbag
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis dari mesin komputasi itu sendiri akan semakin bervariatif seiring berjalannya waktu. Namun untuk saat ini setidaknya ada 14 jenis mesin komputasi yang umum kita ketahui, yaitu:
+
+- Superkomputer, mesin ini didesain untuk melakukan perhitungan yang sangat kompleks dan membutuhkan daya komputasi yang sangat tinggi. Selain itu mesin ini juga digunakan dalam riset ilmiah, pemodelan cuaca, simulasi nuklir, dan aplikasi berat lainnya.
+- Mainframe, adalah mesin komputasi yang biasanya digunakan untuk pemrosesan transaksi besar dan aplikasi bisnis korporat, karena kemampuannya yang dapat menangani banyak pengguna secara bersamaan
+- Server, merupakan komputer yang dirancang khusus untuk menyediakan layanan, sumber daya, atau aplikasi kepada komputer-komputer klien melalui jaringan.
+- Personal Computer (PC), merupakan komputer yang dirancang untuk penggunaan pribadi.
+- Workstation, merupakan komputer yang kuat digunakan untuk tugas-tugas khusus seperti desain grafis, pemodelan 3D, dan pengembangan perangkat lunak.
+- Embedded Systems, merupakan sistem komputasi tertanam dalam perangkat elektronik non-komputer, seperti kendaraan, peralatan rumah tangga, dan peralatan medis.
+  -PDA (Personal Digital Assistant), merupakan perangkat portabel yang menyediakan fungsi komputasi dan komunikasi, seperti smartphone dan tablet.
+- Microcontroller, merupakan sistem komputasi yang terintegrasi dalam satu chip, biasanya digunakan untuk mengendalikan fungsi-fungsi tertentu dalam perangkat elektronik.
+- Cluster Computing, adalah penggunaan beberapa komputer atau server yang terhubung untuk bekerja bersama guna meningkatkan kinerja dan keandalan.
+- Quantum Computer, merupakan mesin komputasi yang menggunakan prinsip-prinsip mekanika kuantum untuk melakukan perhitungan. Mesin ini didesain untuk menangani masalah-masalah tertentu dengan lebih efisien daripada komputer klasik.
+- Cloud Computing, merupakan mesin yang menyediakan layanan komputasi melalui internet, memungkinkan akses sumber daya komputasi tanpa harus memiliki perangkat keras fisik.
+- Analog Computer, merupakan mesin yang menggunakan sinyal analog untuk merepresentasikan dan memproses data kontinu, sering digunakan untuk perhitungan fisika dan engineering.
+- Neuromorphic Computer, mesin ini didesain meniru arsitektur dan fungsi otak manusia, memanfaatkan prinsip-prinsip neurobiologi.
+- Grid Computing, adalah menggabungkan daya komputasi dari berbagai sumber untuk menyelesaikan tugas-tugas yang kompleks.
+
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 - Mencoba penggunaan berbagai model machine learning
