@@ -108,17 +108,34 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+- Gambar
+  ![gambar](https://github.com/madda123/UAS-PI/blob/main/poto/gambar.png)
+- Audio
+  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
+  ![audio 2](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
+
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+- TTS
+  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
+- Speechrecognition
+  ![audio 2](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
+- Hugging face
+
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+
+- Mendaftar
+  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
+- Eksplorasi
+  ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
