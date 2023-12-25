@@ -217,7 +217,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
-![duolingo](https://github.com/madda123/UAS-PI/blob/main/poto/2.jpg)
+- Eksplorasi Aplikasi Duolingo
+  ![duolingo](https://github.com/madda123/UAS-PI/blob/main/poto/2.jpg)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
@@ -230,6 +231,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
+- Membangun Profil
+  ![linkedin1](https://github.com/madda123/UAS-PI/blob/main/poto/2.jpg)
+- Mengikuti Akun Akun Inspiratif
+  ![linkedin2](image.png)
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
