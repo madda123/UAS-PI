@@ -188,3 +188,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
   ![course](https://github.com/madda123/UAS-PI/blob/main/poto/course.png)
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+
+- Buku pertama (Reaper), buku ini merupakan novel yang menceritakan seorang kehidupan seorang cyber security yang terus menerus mendapati serangan dari hacker yang misterius. Walaupun buku ini dikemas sebagai novel, tapi buku ini juga banyak memberikan gambaran dunia pekerjaan di dunia IT bagi saya, sehingga saya memantapkan diri untuk mengulas buku ini disini.
+  ![buku1](https://github.com/madda123/UAS-PI/blob/main/poto/buku1.jpg)
+
+- Buku kedua (Kitab Hacker), buku ini lebih pantas apabila disebut sebagai buku praktis, dimana didalamnya lebih banyak menjelaskan sesuatu secara prosedural untuk melakukan sesuatu. Namun tidak hanya menjelaskan tutorial saja, buku ini juga mengajarkan saya bagaimana seorang hacker semestinya bertindak laku, keterampilan yang dimiliki semestinya dipakai untuk hal yang baik, bukan untuk merugikan orang lain.
+  ![buku2](https://github.com/madda123/UAS-PI/blob/main/poto/buku2.jpg)
