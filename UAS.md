@@ -2,12 +2,35 @@
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+Setelah mempelajari melalui berbagai sumber, saya dapat menyimpulkan bahwa computational thinking itu adalah cara berpikir seseorang dalam menyelesaikan permasalahan, dengan cara membaginya kepada beberapa step atau bagian supaya dapat diselesaikan dengan lebih efektif dan efisien. Hal ini juga dapat diartikan sebagai sebuah metode untuk menyelesaikan masalah yang dirancang untuk bisa diselesaikan oleh manusia, sistem, atau bahkan keduanya.
+
+Berdasarkan konsepnya, pemikiran komputasional memiliki empat tahap utama, antara lain:
+
+- Dekomposisi, yaitu memecah masalah kompleks menjadi beberapa bagian kecil dan sederhana. Sehingga, kita bisa menemukan masalah yang terjadi dengan menyelesaikannya satu persatu.
+- Pattern recognition (Pengenalan pola), Hal ini akan membantu kamu dalam memecahkan masalah. Nah, pada tahap ini, kita mencari pola atau persamaan tertentu dalam sebuah masalah.
+- Abstraksi, beberapa hal yang dilakukan pada tahap abstraksi antara lain, melihat permasalahan, melakukan generalisasi, dan melakukan identifikasi informasi. Dengan cara ini, kita dapat melihat informasi penting dan mengabaikan informasi yang kurang relevan.
+- Algoritma, Ini adalah tahapan saat kita mengembangkan sistem, membuat daftar petunjuk dan langkah-langkah pemecahan masalah secara efektif dan efisien.
+
+Seseorang dengan keterampilan computational thinking memiliki beberapa karakteristik, antara lain:
+
+- Mampu merumuskan dan menyelesaikan masalah menggunakan perangkat komputer atau perangkat digital.
+- Mampu mengelompokkan dan menganalisis data.
+- Dapat merepresentasikan data secara abstrak menggunakan model atau simulasi.
+- Mampu melakukan analisis solusi dengan cara dan tahapan yang efisien dan efektif.
+- Dapat menggeneralisasi penyelesaian untuk berbagai masalah berbeda.
+
+Seperti yang sudah dibahas, computational thinking dapat diterapkan dalam berbagai bidang untuk menyelesaikan masalah. Beberapa langkah yang harus dilakukan antara lain:
+
+- Perincian masalah, langkah pertama ketika menghadapi masalah adalah melakukan analisis terhadap masalah tersebut. Kemudian, lakukan penjabaran masalah dengan benar dan tepat. Terakhir tetapkan kriteria solusi dari masalah tersebut. Analisis dan penjabaran dapat dilakukan dengan cara membagi masalah yang kompleks menjadi masalah-masalah kecil agar lebih mudah untuk dikelola dan dianalisis. Setelah itu kamu dapat membuat beberapa hipotesis mengenai penjabaran kemungkinan solusi untuk masalah tersebut.
+- Memikirkan algoritma yang sistematis, setelah langkah pertama selesai dilakukan, kamu perlu mencari algoritma yang tepat. Algoritma di sini dapat diartikan sebagai langkah-langkah yang sesuai untuk memecahkan masalah berdasarkan data.
+- Implementasi, solusi, dan evaluasi. Langkah terakhir, buatlah solusi yang aktual dan lakukan evaluasi secara sistematis untuk menguji kebenaran hipotesismu. Lalu, lakukan evaluasi dan modifikasi terhadap hipotesis, sampai ia tidak lagi memerlukan modifikasi. Dalam langkah ini, kamu juga dapat melihat apakah solusimu dapat digeneralisasikan dengan proses otomatisasi
+
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## Mengaktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
-- Mencoba penggunaan model machine learning
-  ![Mencoba cerita pendek](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
+- Mencoba penggunaan berbagai model machine learning
+  ![Mencoba](https://github.com/madda123/UAS-PI/blob/main/poto/colab.png)
 
 ## Mencoba Console Sistem Operasi
 
