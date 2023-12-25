@@ -222,7 +222,13 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐
 
+- Eksplorasi Aplikasi HelloTalk (mencoba berbicara dengan orang asing)
+  ![Hellotalk](https://github.com/madda123/UAS-PI/blob/main/poto/hellotalk.jpg)
+
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
+- Eksplorasi
+  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/hellotalk.jpg)
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
