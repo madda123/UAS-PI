@@ -20,7 +20,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-![Mencoba cerita pendek](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
+- Mencoba membuat cerita pendek
+  ![Mencoba cerita pendek](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
@@ -28,10 +29,12 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
-![Mendaftarkan diri](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
-![Mencoba menyelesaikan tantangan java](https://github.com/madda123/UAS-PI/blob/main/poto/Scratch.png)
+- Mendaftarkan diri
+  ![Mendaftarkan diri](https://github.com/madda123/UAS-PI/blob/main/poto/Hackerrank2.png)
+- Mencoba menyelesaikan tantangan java
+  ![Mencoba menyelesaikan tantangan java](https://github.com/madda123/UAS-PI/blob/main/poto/Hackerrank.png)
 
-Link Profil HackerRank [1](https://www.hackerrank.com/profile/madda_athiarahm1)
+Link Profil HackerRank [Klik Disini](https://www.hackerrank.com/profile/madda_athiarahm1)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
@@ -72,6 +75,9 @@ Referensi tutorial
 Referensi []
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+
+- Membuat file json
+  ![Membuatan](https://github.com/madda123/UAS-PI/blob/main/poto/Hackerrank2.png)
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
