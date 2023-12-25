@@ -142,11 +142,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
 
 - Mendaftar
-  ![kaggle 1](https://github.com/madda123/UAS-PI/blob/main/poto/hugging2.png)
+  ![kaggle 1](https://github.com/madda123/UAS-PI/blob/main/poto/kaggle1.png)
 - Eksplorasi
-  ![kaggle 2](https://github.com/madda123/UAS-PI/blob/main/poto/hugging1.png)
+  ![kaggle 2](https://github.com/madda123/UAS-PI/blob/main/poto/kaggle2.png)
 
-  Link hugging face [Klik Disini](https://huggingface.co/maddapy)
+  Link kaggle [Klik Disini](https://www.kaggle.com/maddaathiarahman)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
