@@ -226,7 +226,9 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 - Menonton tugas akhir salah satu mahasiswa unindra mengenai demo website bantuan sosial
   ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
   Link youtube [Klik Disini](https://www.youtube.com/watch?v=C-fNkOsUb7g)
--
+- Menonton tugas akhir salah satu mahasiswi unindra mengenai demo aplikasi uji kelayakan mobil bekas
+  ![menonton2](https://github.com/madda123/UAS-PI/blob/main/poto/nonton2.png)
+  Link youtube [Klik Disini](https://www.youtube.com/watch?v=1BqWskMyKwg)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -307,7 +309,8 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
 - Eksplorasi project project keren di github
-  ![project](image.png)
+  ![project](<https://github.com/madda123/UAS-PI/blob/main/poto/Screenshot%20(139).png>)
+  Setelah mengeksplor berbagai project, semua project saya bintangi untuk suatu saat jika saya butuh inspirasi dari project project tersebut. Project yang saya eksplor bervariasi, mulai dari project website, game, UI/UX, aplikasi mobile dan sebagainya. Jujur saya terkagum kagum melihat itu semua karena ternyata apa yang saya kerjakan pada semester 1 ini belum ada apa apanya dibandingkan dengan project project itu, saya harap suatu saat nanti saya bisa menjadi orang yang sama seperti orang yang saya kagumi tersebut.
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
