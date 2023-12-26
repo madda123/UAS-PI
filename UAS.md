@@ -203,7 +203,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
-![mqtt](https://github.com/madda123/UAS-PI/blob/main/poto/mqtt.jpg)
+- Komunikasi antar mahasiswa teknik informatika semester 1 kelas b
+  ![mqtt](https://github.com/madda123/UAS-PI/blob/main/poto/mqtt.jpg)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
@@ -211,9 +212,21 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, baik jurnal, conference maupun artikel memiliki tujuan yang sama yaitu sebagai bentuk publikasi penelitian yang bersifat ilmiah, sehingga nantinya semua hal itu akan berpengaruh terhadap perkembangan teknologi, pendidikan dan sebagainya. Adapun grade jurnal adalah tingkatan jurnal berdasarkan pengaruh maupun reputasi dari penerbit atau jurnal itu sendiri, untuk lebih jelasnya saya rangkum 4 hal tersebut dibawah ini:
+
+- Jurnal, merupakan publikasi akademis yang berisi artikel-artikel ilmiah, penelitian, dan ulasan di bidang tertentu. Artikel-artikel tersebut ditulis oleh para peneliti, ilmuwan, atau akademisi dan biasanya melewati proses penelaahan oleh rekan sejawat (peer review) sebelum diterbitkan. Jurnal dapat mencakup berbagai disiplin ilmu, mulai dari ilmu alam, ilmu sosial, hingga humaniora. Jurnal merupakan sarana utama untuk menyebarkan pengetahuan baru dan memberikan dasar ilmiah bagi masyarakat akademis.
+- Konferensi adalah pertemuan akademis atau profesional di mana para peneliti, ilmuwan, dan praktisi berkumpul untuk berbagi pengetahuan, hasil penelitian, dan pengalaman di bidang tertentu. Konferensi dapat berlangsung dalam berbagai tingkatan, mulai dari tingkat lokal hingga internasional. Peserta konferensi dapat menyajikan makalah atau presentasi lisan, berpartisipasi dalam diskusi panel, dan berinteraksi dengan sesama peserta untuk memperluas jaringan profesional dan mendapatkan wawasan baru.
+- Artikel dalam konteks akademis merujuk pada tulisan yang mengandung analisis, hasil penelitian, atau pemikiran ilmiah tentang suatu topik tertentu. Artikel dapat ditemukan dalam berbagai format, termasuk artikel jurnal, artikel konferensi, atau artikel populer. Artikel ilmiah biasanya disusun sesuai dengan struktur tertentu, seperti abstrak, pendahuluan, metode penelitian, hasil, pembahasan, dan daftar pustaka.
+- Grade jurnal merujuk pada tingkat kualitas atau reputasi suatu jurnal ilmiah. Banyak organisasi atau lembaga memberikan peringkat atau memberikan nilai pada jurnal berdasarkan faktor-faktor seperti proses peer review, dampak (impact) jurnal, dan reputasi penerbit. Beberapa peringkat jurnal terkenal termasuk faktor dampak jurnal (journal impact factor), yang mengukur sejauh mana artikel dalam jurnal tersebut dikutip dalam literatur ilmiah. Jurnal-jurnal dengan grade tinggi cenderung dianggap lebih prestisius dalam komunitas akademis.
+
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+
+- Menonton tugas akhir salah satu mahasiswa unindra mengenai demo website bantuan sosial
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  Link youtube [Klik Disini](https://www.youtube.com/watch?v=C-fNkOsUb7g)
+-
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -264,8 +277,18 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
-- Eksplorasi
-  ![Loker](https://github.com/madda123/UAS-PI/blob/main/poto/Loker.png)
+- Eksplorasi data pekerjaan IT yang paling banyak dicari
+  Dilansir dari prosple.com, setidaknya ada 7 pekerjaan IT yang paling sering dicari dan paling besar peluang nya untuk kita lamar pada 2022, yaitu:
+
+  - Information Security Analyst
+  - Artificial Intelligence (AI) / Machine Learning Engineer
+  - Data Scientist
+  - Web Developer
+  - Software Development Engineer
+  - Computer Hardware Engineer
+  - Cloud Architect
+
+  Dengan data ini kita sebagai mahasiswa yang nantinya akan mengisi lowongan lowongan tersebut diharapkan dapat mempersiapkan skill maupun kemampuan kita dalam memenuhi permintaan tersebut.
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
@@ -282,6 +305,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
   ![roadmap](https://github.com/madda123/UAS-PI/blob/main/poto/roadmap.png)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
+
+- Eksplorasi project project keren di github
+  ![project](image.png)
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
