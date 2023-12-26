@@ -144,10 +144,25 @@ Referensi []
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
 Untuk membuka developer tools pada browser (chrome), cara yang biasa saya lakukan adalah klik kanan pada layar bagian manapun dan klik menu inspect pada pilihan yang keluar ketika kita klik kanan tadi.
-![1](https://github.com/madda123/UAS-PI/blob/main/poto/wordpress.png)
+![1](https://github.com/madda123/UAS-PI/blob/main/poto/1.png)
+![1](https://github.com/madda123/UAS-PI/blob/main/poto/2.png)
 
 Namun kita bisa juga membukanya dengan menekan button titik tiga diujung kanan sampai muncul pilihan, dan pilih menu more tools, lalu pilih developer tools.
-![2](https://github.com/madda123/UAS-PI/blob/main/poto/wordpress.png)
+![2](https://github.com/madda123/UAS-PI/blob/main/poto/3.png)
+![2](https://github.com/madda123/UAS-PI/blob/main/poto/2.png)
+
+Developer tools ini bukan dibuat tanpa alasan, tentunya ada manfaat dan fungsi yang dimiliki oleh developer tools ini, beberapa diantara manfaatnya adalah:
+
+- Debugging JavaScript, developer Tools memungkinkan pengembang untuk melakukan debugging JavaScript pada halaman web. Anda dapat menetapkan titik henti (breakpoint), melihat nilai variabel, dan melacak eksekusi kode.
+- Inspecting Elements, memungkinkan pengembang untuk menginspeksi dan mengedit elemen HTML dan CSS pada halaman web secara langsung. Ini membantu dalam pemahaman struktur dokumen dan mendesain ulang tata letak.
+- Network Monitoring, memberikan informasi rinci tentang permintaan jaringan yang dibuat oleh halaman web, termasuk waktu muat, ukuran berkas, dan status permintaan. Berguna untuk mengoptimalkan kinerja halaman.
+- Performance Profiling, menyediakan alat untuk memantau dan menganalisis kinerja halaman web. Anda dapat mengidentifikasi titik-titik lemah dan melakukan optimasi untuk meningkatkan waktu muat halaman.
+- Application Testing, memungkinkan simulasi berbagai kondisi jaringan dan perangkat untuk menguji responsifitas dan kinerja aplikasi web di berbagai skenario.
+- Console Logging, developer Tools menyediakan konsol JavaScript yang memungkinkan pengembang untuk melihat log pesan, kesalahan, dan keluaran dari skrip JavaScript.
+- Source Code Editing, memungkinkan pengembang untuk mengedit dan menguji perubahan pada kode sumber langsung dari browser tanpa perlu mengubah file asli.
+- Security Auditing, menyediakan alat untuk menganalisis keamanan halaman web, termasuk pemindaian sumber daya yang diambil dari sumber tidak aman.
+- Mobile Emulation, developer Tools memungkinkan emulasi perangkat seluler, memungkinkan pengembang untuk melihat dan menguji bagaimana halaman web mereka tampil di berbagai perangkat dan ukuran layar.
+- Application Data Inspection, memungkinkan pengembang untuk mengelola data penyimpanan lokal, cookie, dan indeks basis data pada halaman web.
 
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
