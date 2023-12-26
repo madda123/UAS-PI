@@ -159,8 +159,12 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 - Image
   Dulu saat SMA saya sering sekali masuk kepanitiaan yang bertugas membuat desain mengenai berbagai hal yang berkaitan dengan acara, adapun yang ingin saya tunjukan adalah profil instagram yang desain dalam bentuk grafisnya saya yang buat
-  ![akalapati]()
-  [Link](https://www.instagram.com/akalapati2840/)
+  ![akalapati](https://github.com/madda123/UAS-PI/blob/main/poto/akalapati.png)
+  Link [Klik Disini](https://www.instagram.com/akalapati2840/)
+- Audio dan Video
+  Saya suka sekali membuat video diri saya mengaji dan diupload ke sosial media, ini salah duanya
+  Link [Klik Disini](https://www.instagram.com/p/B7AIuNLp9IJ/)
+  Link [Klik Disini](https://www.instagram.com/p/B7Bl7g4JCdx/?img_index=1)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
@@ -173,6 +177,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
   ![audio 2](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+
+- Mencoba Bard untuk mengidentifikasi gambar
+  ![bard]()
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
