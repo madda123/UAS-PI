@@ -53,7 +53,8 @@ Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+- Mencoba compile manual java melalui cmd
+  ![Mencoba](https://github.com/madda123/UAS-PI/blob/main/poto/compile.png)
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
