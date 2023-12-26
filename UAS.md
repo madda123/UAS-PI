@@ -111,7 +111,7 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 Setelah mencari ke berbagai sumber, ternyata ada beberapa cara untuk melacak informasi server hanya dengan menggunakan alamat domain. Salah satu caranya adalah dengan menggunakan perintah "nslookup" + nama-domain.com pada command promt. Namun hal ini tidak akan cukup akurat melacak informasi server dari alamat domain sebuah web yang sudah cukup besar namanya, karena biasanya hal ini akan disembunyikan atau malah diganti dengan yang palsu untuk menjaga keamanan web tersebut.
 
 - Mencoba melacak informasi server web instagram.com
-  ![ig]()
+  ![ig](https://github.com/madda123/UAS-PI/blob/main/poto/lacal.png)
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
@@ -262,6 +262,17 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 - Grade jurnal merujuk pada tingkat kualitas atau reputasi suatu jurnal ilmiah. Banyak organisasi atau lembaga memberikan peringkat atau memberikan nilai pada jurnal berdasarkan faktor-faktor seperti proses peer review, dampak (impact) jurnal, dan reputasi penerbit. Beberapa peringkat jurnal terkenal termasuk faktor dampak jurnal (journal impact factor), yang mengukur sejauh mana artikel dalam jurnal tersebut dikutip dalam literatur ilmiah. Jurnal-jurnal dengan grade tinggi cenderung dianggap lebih prestisius dalam komunitas akademis.
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
+- IEEE (melihat daftar jadwal conference yang akan diselenggarakan di berbagai negara)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+- Arxiv (melihat berbagai jurnal mengenai database)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+- Science Direct (melihat berbagai jurnal mengenai database)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+- ACM (melihat daftar jadwal conference yang akan diselenggarakan di berbagai negara)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+- DBLP (melihat berbagai jurnal mengenai web)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
