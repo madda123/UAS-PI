@@ -178,10 +178,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
-- Mencoba Bard untuk mengidentifikasi gambar
-  ![bard]()
+- Mencoba web Bard untuk mengidentifikasi gambar
+  ![bard](https://github.com/madda123/UAS-PI/blob/main/poto/bard.png)
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
+
+- Menggunakan chatGPT untuk membuat perintah pada bing image
+  ![gpt](https://github.com/madda123/UAS-PI/blob/main/poto/bard.png)
+- Menggunakan perintah yang didapat dari chatGPT pada bing image
+  ![bing](https://github.com/madda123/UAS-PI/blob/main/poto/bard.png)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
