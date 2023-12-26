@@ -60,7 +60,8 @@ Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+- Membuat algoritma menentukan bilangan genap ganjil dalam bentuk flow chart
+  ![Mencoba](https://github.com/madda123/UAS-PI/blob/main/poto/Untitled%20Diagram.drawio.png)
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
@@ -215,6 +216,9 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+
+- Eksplorasi profesi
+  ![profesi](image.png)
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
