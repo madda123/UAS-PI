@@ -155,6 +155,28 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+Di era globalisasi ini bukan tidak mungkin kita bisa mengakses segala hal yang ada di dunia ini, termasuk data dalam bentuk gambar, video, maupun audio. Namun hal ini kadang menjadi tidak baik karena dengan internet, artinya seseorang bisa berselancar sesuai dengan keinginannya, yang mana keinginan seseorang itu tidak selalu baik, ada hal yang buruk. Maka dari itu sebagai manusia yang berpendidikan, kita harus sadar akan hal tersebut dan harus menjaga orang orang terdekat kita dari hal tersebut.
+
+Disamping hal buruk tadi, tentu ada beribu manfaat dari kebebasan kita mengakses internet. Ada ribuan pekerjaan yang terbantu karena internet ini, khususnya pekerja yang selalu berkutat dengan gambar, video, dan audio. Tidak perlu jauh jauh, kita sebagai mahasiswa pun banyak menerima manfaat dari hal ini, untuk lebih jelasnya akan saya jelaskan dengan penjelasan dibawah ini:
+
+- Gambar
+  Gambar yang baik adalah gambar yang maknanya baik pula secara tersirat maupun tersurat, artinya setiap gambar memiliki informasi yang ingin pembuatnya komunikasikan kepada kita sebagai penikmat gambar. Sebagai mahasiswa kita sering sekali mendapat inspirasi atau bahkan mood yang kembali membaik ketika melihat gambar.
+- Video
+  Sama hal nya dengan gambar, video juga dibuat atas tujuan oleh pembuatnya, entah itu untuk memberitakan sesuatu, mengedukasi, menghibur, dan lain sebagainya. Sejatinya seluruh media sosial saat ini pasti terdiri atas gambar, video, maupun audio, namun yang membedakan nya adalah target penggunanya.
+- Audio
+  Bagi beberapa orang di dunia, lagu sudah menjadi bagian dari hidupnya. Saat sedang lelah dan suntuk, kadang kita memainkan satu sampai dua lagu untuk membuat kita kembali bersemangat, dan jangan lupa bahwa lagu merupakan publikasi audio.
+
+Pada intinya, baik gambar, video, maupun audio, sekarang sudah mendominasi di berbagai media sosial yang bisa diakses oleh manusia kapan saja dan dimana saja selama mereka memiliki akses internet. Adapun contoh dari sosial media yang sering digunakan adalah:
+
+- Instagram
+- Youtube
+- Spotify
+- Pinterest
+- Twitter
+- Facebook
+- Whatsapp
+- DLL
+
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
 - Image
@@ -183,10 +205,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
-- Menggunakan chatGPT untuk membuat perintah pada bing image
-  ![gpt](https://github.com/madda123/UAS-PI/blob/main/poto/bard.png)
-- Menggunakan perintah yang didapat dari chatGPT pada bing image
-  ![bing](https://github.com/madda123/UAS-PI/blob/main/poto/bard.png)
+- Menggunakan chatGPT untuk membuat perintah pada bing image (text to text)
+  ![gpt](https://github.com/madda123/UAS-PI/blob/main/poto/gpt.png)
+- Menggunakan perintah yang didapat dari chatGPT pada bing image (text to image)
+  ![bing](https://github.com/madda123/UAS-PI/blob/main/poto/bing.png)
 
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
