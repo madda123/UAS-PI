@@ -108,7 +108,10 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+Setelah mencari ke berbagai sumber, ternyata ada beberapa cara untuk melacak informasi server hanya dengan menggunakan alamat domain. Salah satu caranya adalah dengan menggunakan perintah "nslookup" + nama-domain.com pada command promt. Namun hal ini tidak akan cukup akurat melacak informasi server dari alamat domain sebuah web yang sudah cukup besar namanya, karena biasanya hal ini akan disembunyikan atau malah diganti dengan yang palsu untuk menjaga keamanan web tersebut.
+
+- Mencoba melacak informasi server web instagram.com
+  ![ig]()
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
