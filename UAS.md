@@ -242,7 +242,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 - Eksplorasi Roadmap Front End Developer
-  ![roadmap](https://github.com/madda123/UAS-PI/blob/main/poto/freelancer.png)
+  ![roadmap](https://github.com/madda123/UAS-PI/blob/main/poto/roadmap.png)
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐
 
