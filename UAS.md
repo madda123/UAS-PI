@@ -1,4 +1,4 @@
-# Hello Informatics !
+## UAS Pengenalan Informatika Madda Athia Rahman (1237050124)
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
@@ -104,7 +104,13 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+URL terdiri dari beberapa komponen yang memiliki maksud dan arti yang berbeda beda, setidaknya ada 5 komponen, yaitu:
+
+- Skema menentukan protokol yang digunakan untuk mengakses sumber daya. Contoh protokol meliputi HTTP, HTTPS, FTP, dan lainnya. Skema diikuti oleh ":". Misalnya, dalam "https://www.example.com", "https" adalah skemanya.
+- Host adalah alamat atau nama domain dari server yang menyediakan sumber daya. Dalam "https://www.example.com", "www.example.com" adalah hostnya.
+- Jalur (path) menunjukkan lokasi spesifik dari sumber daya di dalam server. Jalur dimulai setelah host dan bisa mencakup direktori atau nama file. Contoh: dalam "https://www.example.com/page/index.html", "/page/index.html" adalah jalurnya.
+- Parameter kueri digunakan untuk mengirim data ke server sebagai bagian dari permintaan. Mereka dimulai setelah tanda tanya (?) dan dipisahkan oleh tanda ampersand (&). Contoh: dalam "https://www.example.com/search?q=example&page=1", "?q=example&page=1" adalah parameter kuerinya.
+- Fragment/anchor merujuk pada bagian tertentu dari sumber daya yang ditampilkan. Ini dimulai setelah tanda pagar (#). Misalnya, dalam "https://www.example.com/page#section1", "#section1" adalah fragmennya.
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
