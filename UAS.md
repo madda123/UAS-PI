@@ -157,6 +157,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+- Image
+  Dulu saat SMA saya sering sekali masuk kepanitiaan yang bertugas membuat desain mengenai berbagai hal yang berkaitan dengan acara, adapun yang ingin saya tunjukan adalah profil instagram yang desain dalam bentuk grafisnya saya yang buat
+  ![akalapati]()
+  [Link](https://www.instagram.com/akalapati2840/)
+
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
@@ -319,7 +324,12 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 - Mengikuti Akun-Akun Inspiratif
   ![linkedin2](https://github.com/madda123/UAS-PI/blob/main/poto/linkedin2.png)
 
+  Link [Klik Disini](https://www.linkedin.com/in/madda-athia-rahman-b26a5b2a4/)
+
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+
+- Membangun Profil Github Page
+  Link [Klik Disini](https://github.com/madda123/Profile/edit/main/README.md)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
