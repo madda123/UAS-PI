@@ -143,6 +143,12 @@ Referensi []
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
+Untuk membuka developer tools pada browser (chrome), cara yang biasa saya lakukan adalah klik kanan pada layar bagian manapun dan klik menu inspect pada pilihan yang keluar ketika kita klik kanan tadi.
+![1](https://github.com/madda123/UAS-PI/blob/main/poto/wordpress.png)
+
+Namun kita bisa juga membukanya dengan menekan button titik tiga diujung kanan sampai muncul pilihan, dan pilih menu more tools, lalu pilih developer tools.
+![2](https://github.com/madda123/UAS-PI/blob/main/poto/wordpress.png)
+
 ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
@@ -264,15 +270,15 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 - IEEE (melihat daftar jadwal conference yang akan diselenggarakan di berbagai negara)
-  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/IEEE.png)
 - Arxiv (melihat berbagai jurnal mengenai database)
-  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/arxiv.png)
 - Science Direct (melihat berbagai jurnal mengenai database)
-  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/sciencedirect.png)
 - ACM (melihat daftar jadwal conference yang akan diselenggarakan di berbagai negara)
-  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/ACM.png)
 - DBLP (melihat berbagai jurnal mengenai web)
-  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/nonton.png)
+  ![menonton](https://github.com/madda123/UAS-PI/blob/main/poto/DBLP.png)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
