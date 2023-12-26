@@ -217,8 +217,40 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
-- Eksplorasi profesi
-  ![profesi](image.png)
+- Eksplorasi berbagai profesi informatika
+  ![profesi](https://github.com/madda123/UAS-PI/blob/main/poto/profesi.png)
+  - Software Engineer
+  - IT Consultant
+  - Web Developer
+  - Mobile Application Developer
+  - Game Developer
+  - System Analyst
+  - Data Scientist
+  - Android Developer
+  - iOS Developer
+  - Cyber Security Analyst
+  - SEO Specialist
+  - Database Administrator
+  - Cloud Architect
+  - Software Tester
+  - Network Engineer
+  - Full Stack Developer
+  - Front End Developer
+  - Back End Developer
+  - Computer Forensic Investigator
+  - Web Administrator
+  - UX Researcher
+  - Web Designer
+  - Applications Engineer
+  - Penetration Tester
+  - IT Auditor
+  - Data Engineer
+  - Quality Assurance Engineer
+  - Machine Learning Engineer
+  - DevOps Engineer
+  - IT Auditor
+- Eksplorasi profesi front end sebagai profesi yang diminati
+  ![profesi2](https://github.com/madda123/UAS-PI/blob/main/poto/profesi2.png)
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 
