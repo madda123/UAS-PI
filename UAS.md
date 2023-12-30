@@ -96,7 +96,7 @@ Link Profil HackerRank [Klik Disini](https://www.hackerrank.com/profile/madda_at
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
-Mengulas tugas besar pada mata kuliah dasar pemrograman, saya bersama dengan 2 teman saya membuat aplikasi sederhana melalui java yang berfungsi sebagai aplikasi dalam membeli pulsa maupun paket data. Disini kami belajar mengaplikasikan pelajaran yang sudah kami terima saat mengerjakan uts mata kuliah pengenalan informatika, yang mana disana diberikan soal mengenai developmet life cycle, sehingga kami menjadi tahu dan lebih terarah dalam membuat suatu project, dalam hal ini aplikasi pembelian pulsa/paket data. Adapun proses pembuatan nya seperti ini
+Mengulas tugas besar pada mata kuliah dasar pemrograman, saya bersama dengan 2 teman saya membuat aplikasi sederhana melalui java yang berfungsi sebagai aplikasi dalam membeli pulsa maupun paket data. Disini kami belajar mengaplikasikan pelajaran yang sudah kami terima saat mengerjakan uts mata kuliah pengenalan informatika, yang mana disana diberikan soal mengenai development life cycle, sehingga kami menjadi tahu dan lebih terarah dalam membuat suatu project, dalam hal ini aplikasi pembelian pulsa/paket data. Adapun proses pembuatan nya seperti ini
 
 - Project dimulai dengan melakukan perencanaan dan analisis, dimana pada tahap ini kami membuat struktur data sehingga terlihat jelas entitas entitas yang akan ada dalam aplikasi ini, dan bagaimana hubungan dari satu entitas ke entitas lain nya.
 
@@ -104,7 +104,13 @@ Link Struktur Data [Klik Disini](https://mermaid.live/edit#pako:eNp9U8tuwyAQ_BXE
 
 - Tahap berikutnya kami menentukan desain dari aplikasi tersebut, agar nanti tampilan nya lebih menarik dan membuat user nyaman juga tanggap dalam memakai aplikasi.
 
-Link UI [Klik Disini]()
+Link UI [Klik Disini](https://github.com/madda123/UAS-PI/blob/main/poto/UI.png)
+
+- Lalu setelah semua perencanaan selesai, kita langsung mengeksekusi plan kita di awal dengan membagi pekerjaan masing masing demi efisiensi dan efektivitas pengerjaan.
+
+Link Development [Klik Disini](https://github.com/madda123/UAS-PI/blob/main/poto/development.png)
+
+- Setelah menjalani tahap tahap diatas, sebenarnya masih perlu beberapa tahap lagi untuk mengaplikasikan development life cycle, seperti testing, publish, maintenance. Namun, pembuatan aplikasi ini hanya berupa demo dan saya rasa untuk demo, hal ini sudah cukup baik, kecuali tujuan kita adalah untuk mempublikasikannya, maka perlu dilakukan lagi tahap tahap tadi.
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -239,6 +245,10 @@ Pada intinya, baik gambar, video, maupun audio, sekarang sudah mendominasi di be
   Link [Klik Disini](https://www.instagram.com/p/B7Bl7g4JCdx/?img_index=1)
 
 ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+
+Mencoba netlogo dalam membuat video game membuat saya belajar bahwa dalam suatu game, pasti ada suatu pola atau pattern yang nantinya perlu diatur sehingga membentuk data yang konkret. Seperti pada model yang saya coba, model yang saya coba adalah game tentang hubungan antara domba, serigala dan rumput. Ini menjadi hal yang menarik karena konsep dari rantai makanan secara ilmiah divisualisasikan dalam bentuk video game. Kita bisa berandai andai apabila populasi dari ketiga variabel tersebut dinaikan atau diturunkan akan terjadi apa, dan yang lebih hebatnya disana terpampang jelas data perbandingan antara jumlah serigala, domba, dan rumputnya.
+
+-
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
