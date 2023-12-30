@@ -56,8 +56,6 @@ Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis
 - Mencoba compile manual java melalui cmd
   ![Mencoba](https://github.com/madda123/UAS-PI/blob/main/poto/compile.png)
 
-### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
 - Membuat algoritma menentukan bilangan genap ganjil dalam bentuk flow chart
@@ -75,6 +73,18 @@ Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+Integrated Development Environment adalah rangkaian software yang menyatukan semua tool pengembangan menjadi satu GUI (Graphical User Interface). Dengannya, proses pengembangan bisa menjadi lebih efisien dan lebih cepat. Adapun contoh dari IDE itu sendiri adalah:
+
+- Visual Studio Code
+- Netbeans
+- Android Studio
+- Arduino
+
+Dengan bantuan software diatas, manusia akan lebih mudah dalam melakukan development environment, contohnya saya. Saya merasa dimudahkan ketika ingin membuat suatu program dengan adanya software editor seperti VSCode.
+
+- Membuat halaman web dengan bantuan VSCode
+  ![html](https://github.com/madda123/UAS-PI/blob/main/poto/html.png)
+
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 - Mendaftarkan diri
@@ -85,6 +95,16 @@ Sampai saat ini teknologi terus berkembang tanpa henti tiap detiknya, maka jenis
 Link Profil HackerRank [Klik Disini](https://www.hackerrank.com/profile/madda_athiarahm1)
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+
+Mengulas tugas besar pada mata kuliah dasar pemrograman, saya bersama dengan 2 teman saya membuat aplikasi sederhana melalui java yang berfungsi sebagai aplikasi dalam membeli pulsa maupun paket data. Disini kami belajar mengaplikasikan pelajaran yang sudah kami terima saat mengerjakan uts mata kuliah pengenalan informatika, yang mana disana diberikan soal mengenai developmet life cycle, sehingga kami menjadi tahu dan lebih terarah dalam membuat suatu project, dalam hal ini aplikasi pembelian pulsa/paket data. Adapun proses pembuatan nya seperti ini
+
+- Project dimulai dengan melakukan perencanaan dan analisis, dimana pada tahap ini kami membuat struktur data sehingga terlihat jelas entitas entitas yang akan ada dalam aplikasi ini, dan bagaimana hubungan dari satu entitas ke entitas lain nya.
+
+Link Struktur Data [Klik Disini](https://mermaid.live/edit#pako:eNp9U8tuwyAQ_BXEOf4Bq6oUKYf0Zik9Vb5sDXGQMViAFVVO_r1goOBHysEyOzPa3Rl7wo0kFJe44aD1iUGroK8FsufYjQK9PYoCDVS07SjA1-MNFcXjHX0qEBo60Myj6R600FFzArMSO201ch3K_jnP4PtOoeROgQT0gBanvBjFRJuTaA-M7wFCngdUoi0w2HZ3qUgGeviZzxNHnpJ0VjNSRSf2Bxrcfn-cEn0Ik8FMV86aY2fY1YLfUnIKIiO4pRcU3wEtRkz8rZEpiinvS7KI1q6krC1ULWL3hoUwd4QGLBtsAIjLBrhl0QTeQLV-maDOvCiQZtYnZ5YFWASeMQy_zIwv94iSjfPnuVtA166zPdky8Djnqt3L5fOwXhFc4__wjUPJCHzAPVX26yb2P51nqrG50Z7WuLSvBFRX41o4HoxGXn5Eg0ujRnrA40BsDuG3jsUBxJeU9noFrunzF_dQNNo)
+
+- Tahap berikutnya kami menentukan desain dari aplikasi tersebut, agar nanti tampilan nya lebih menarik dan membuat user nyaman juga tanggap dalam memakai aplikasi.
+
+Link UI [Klik Disini]()
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
@@ -404,6 +424,7 @@ Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, bai
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 - Membangun Profil Github Page
+
   Link [Klik Disini](https://github.com/madda123/Profile/edit/main/README.md)
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
