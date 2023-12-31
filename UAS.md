@@ -286,7 +286,6 @@ Mencoba netlogo dalam membuat video game membuat saya belajar bahwa dalam suatu 
   ![audio 1](https://github.com/madda123/UAS-PI/blob/main/poto/audio1.png)
 - Speechrecognition
   ![audio 2](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
-- Hugging face
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
