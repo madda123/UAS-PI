@@ -333,6 +333,11 @@ Untuk mengakses atau memproses file csv di google colab, saya mencari tahu denga
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
+File ORC (Optimized Row Columnar) adalah sebuah format penyimpanan data yang dioptimalkan untuk Big Data dan digunakan terutama dalam ekosistem Apache Hive di lingkungan Apache Hadoop. Format ORC dirancang untuk meningkatkan kinerja pembacaan dan penulisan data dengan menggunakan struktur penyimpanan yang efisien dan kompresi data.
+
+Untuk mengakses atau memproses file orc di google colab, saya mencari tahu dengan bertanya pada chat gpt dan ternyata cukup mudah untuk dicoba, berikut adalah potret pemrosesan file orc di google colab yang saya lakukan.
+![orc](https://github.com/madda123/UAS-PI/blob/main/poto/orc.jpg)
+
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 Pada dasarnya, keempat hal itu erat kaitannya dengan yang namanya publikasi, baik jurnal, conference maupun artikel memiliki tujuan yang sama yaitu sebagai bentuk publikasi penelitian yang bersifat ilmiah, sehingga nantinya semua hal itu akan berpengaruh terhadap perkembangan teknologi, pendidikan dan sebagainya. Adapun grade jurnal adalah tingkatan jurnal berdasarkan pengaruh maupun reputasi dari penerbit atau jurnal itu sendiri, untuk lebih jelasnya saya rangkum 4 hal tersebut dibawah ini:
