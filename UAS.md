@@ -326,6 +326,11 @@ Untuk visualisasi data dengan kode, saya memilih menggunakan chart.js. Chart.js 
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+File CSV (Comma-Separated Values) adalah jenis file teks yang digunakan untuk merepresentasikan data dalam bentuk tabel, di mana setiap baris dari tabel adalah baris dalam file, dan kolom dipisahkan oleh karakter pemisah, biasanya koma (,). File CSV merupakan format yang umum digunakan untuk menyimpan dan menukar data antar aplikasi yang berbeda, terutama dalam konteks pengolahan data dan analisis data.
+
+Untuk mengakses atau memproses file csv di google colab, saya mencari tahu dengan bertanya pada chat gpt dan ternyata cukup mudah untuk dicoba, berikut adalah potret pemrosesan file csv di google colab yang saya lakukan.
+![csv](https://github.com/madda123/UAS-PI/blob/main/poto/csv.jpg)
+
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
