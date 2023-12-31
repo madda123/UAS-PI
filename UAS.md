@@ -121,8 +121,14 @@ Link Development [Klik Disini](https://github.com/madda123/UAS-PI/blob/main/poto
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+- Menghubungkan posgreSQL dengan Dbeaver
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/db1.png)
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/db1.png)
+- Membuat tabel mahasiswa
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/tabel1.png)
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/tabel2.png)
+- Query data
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/query.png)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 
