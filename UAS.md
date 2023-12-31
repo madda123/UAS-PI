@@ -248,7 +248,8 @@ Pada intinya, baik gambar, video, maupun audio, sekarang sudah mendominasi di be
 
 Mencoba netlogo dalam membuat video game membuat saya belajar bahwa dalam suatu game, pasti ada suatu pola atau pattern yang nantinya perlu diatur sehingga membentuk data yang konkret. Seperti pada model yang saya coba, model yang saya coba adalah game tentang hubungan antara domba, serigala dan rumput. Ini menjadi hal yang menarik karena konsep dari rantai makanan secara ilmiah divisualisasikan dalam bentuk video game. Kita bisa berandai andai apabila populasi dari ketiga variabel tersebut dinaikan atau diturunkan akan terjadi apa, dan yang lebih hebatnya disana terpampang jelas data perbandingan antara jumlah serigala, domba, dan rumputnya.
 
--
+- Potret percobaan
+  ![netlogo](https://github.com/madda123/UAS-PI/blob/main/poto/netlogo.png)
 
 ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
