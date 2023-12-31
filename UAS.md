@@ -293,9 +293,14 @@ Mencoba netlogo dalam membuat video game membuat saya belajar bahwa dalam suatu 
 Pada dasarnya memvisualisasikan data itu berguna untuk memudahkan kita membaca suatu data, dibandingkan dengan membacanya malalui teks, kita akan lebih mudah membaca data lewat visualisasi seperti tabel, grafik garis, batang, diagram lingkaran, dan sebagainya. Ada banyak cara untuk memvisualisasikan data, bahkan banyak tools hebat di zaman ini yang dapat membantu kita memvisualisasikan data. Di website terbuka terdapat banyak sekali tools seperti itu, salah satunya adalah dengan looker studio. Namun tools yang umum digunakan dalam memvisualisasikan data saat ini adalah excel, dimana excel biasanya sudah menjadi software bawaan ketika kita membeli suatu perangkat komputer atau bahkan smartphone, sehingga lebih familiar di telinga.
 
 - Contoh penggunaan excel dalam memvisualisasikan data
-  ![excel](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
+  ![excel](https://github.com/madda123/UAS-PI/blob/main/poto/excel.png)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+Untuk visualisasi data dengan kode, saya memilih menggunakan chart.js. Chart.js adalah library JavaScript yang digunakan untuk membuat grafik atau chart interaktif di halaman web. Perpustakaan ini menyediakan antarmuka yang sederhana dan responsif untuk membuat berbagai jenis grafik, termasuk bar chart, line chart, radar chart, pie chart, dan banyak lagi. Chart.js dirancang untuk menjadi mudah digunakan dan dapat diintegrasikan dengan mudah ke dalam proyek web.
+
+- Contoh penggunaan chart.js dalam memvisualisasikan data
+  ![chart](https://github.com/madda123/UAS-PI/blob/main/poto/chart.png)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
