@@ -135,6 +135,7 @@ Link Development [Klik Disini](https://github.com/madda123/UAS-PI/blob/main/poto
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+- Ketika pengguna memasukkan URL atau mengklik tautan, browser bertugas untuk mengambil data dari server yang sesuai dan menguraikannya untuk ditampilkan dengan benar di layar pengguna. Pertama, browser mengambil berkas HTML dari server, yang merupakan struktur dasar halaman web. Setelah itu, browser mulai membaca dan menginterpretasi tag-tag HTML untuk memahami struktur dokumen, seperti judul, paragraf, gambar, dan tautan. Proses ini juga melibatkan mengunduh sumber daya tambahan seperti gambar, stylesheet, dan skrip JavaScript yang diperlukan untuk memperindah dan memberikan fungsionalitas tambahan pada halaman web. Setelah seluruh elemen diunduh, browser menyusunnya sesuai dengan hierarki dan tata letak yang telah diatur dalam kode HTML dan CSS. Proses ini disertai dengan pemrosesan JavaScript untuk memberikan interaktivitas dan dinamisme pada halaman. Akhirnya, browser menampilkan halaman web secara visual di layar pengguna, memungkinkan pengguna untuk berinteraksi dengan elemen-elemen yang ada dan menjelajahi konten yang telah diakses. Dengan demikian, browser berperan sebagai perantara yang esensial antara pengguna dan konten web, memastikan tampilan yang sesuai dengan desain asli dan menyediakan pengalaman menjelajah yang lancar.
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
@@ -288,6 +289,11 @@ Mencoba netlogo dalam membuat video game membuat saya belajar bahwa dalam suatu 
 - Hugging face
 
 ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+
+Pada dasarnya memvisualisasikan data itu berguna untuk memudahkan kita membaca suatu data, dibandingkan dengan membacanya malalui teks, kita akan lebih mudah membaca data lewat visualisasi seperti tabel, grafik garis, batang, diagram lingkaran, dan sebagainya. Ada banyak cara untuk memvisualisasikan data, bahkan banyak tools hebat di zaman ini yang dapat membantu kita memvisualisasikan data. Di website terbuka terdapat banyak sekali tools seperti itu, salah satunya adalah dengan looker studio. Namun tools yang umum digunakan dalam memvisualisasikan data saat ini adalah excel, dimana excel biasanya sudah menjadi software bawaan ketika kita membeli suatu perangkat komputer atau bahkan smartphone, sehingga lebih familiar di telinga.
+
+- Contoh penggunaan excel dalam memvisualisasikan data
+  ![excel](https://github.com/madda123/UAS-PI/blob/main/poto/audio2.png)
 
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
