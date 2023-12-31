@@ -114,8 +114,10 @@ Link Development [Klik Disini](https://github.com/madda123/UAS-PI/blob/main/poto
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+- Menginstal postgreSQL
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/pg1.png)
+- Membuka postgreSQL
+  ![pg](https://github.com/madda123/UAS-PI/blob/main/poto/pg2.png)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
