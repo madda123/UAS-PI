@@ -187,6 +187,10 @@ Pada daasarnya, teknik SEO ini terbagi menjadi dua, ada yang on page dan ada pul
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+
+## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+
 Hoppscotch adalah sebuah aplikasi yang memudahkan pengguna untuk membuat dan mengelola HTTP requests serta menjelajahi API. Berikut adalah panduan singkat untuk melakukan HTTP request dan mengakses web API menggunakan hoppscotch:
 Instalasi Hoppscotch:
 
@@ -206,10 +210,6 @@ Instalasi Hoppscotch:
 Kurang lebih seperti itulah tahapan dalam melakukan HTTP request memakai hoppscotch, begini potret saya mencoba melakukan HTTP request.
 ![http](https://github.com/madda123/UAS-PI/blob/main/poto/http.png)
 Pada percobaan ini, saya menggunakan pihak ketiga untuk membantu, yaitu web reqres dimana web ini berfungsi sebagai layanan yang menyediakan API untuk pengembangan web dan pengujian perangkat lunak. Reqres menyediakan endpoint API yang dapat diakses secara publik untuk berbagai keperluan, seperti pengujian, simulasi respons HTTP, dan demonstrasi fungsi CRUD (Create, Read, Update, Delete).
-
-## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
-
-## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 
@@ -238,7 +238,44 @@ Developer tools ini bukan dibuat tanpa alasan, tentunya ada manfaat dan fungsi y
 
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com)
+Layanan cloud menyediakan berbagai kegunaan yang sangat beragam dan memberikan solusi untuk berbagai tantangan yang dihadapi oleh organisasi dan individu. Berikut adalah beberapa kegunaan utama dari layanan cloud:
+
+- Infrastruktur sebagai Layanan (IaaS):
+  - Pemrosesan dan Penyimpanan: Layanan IaaS seperti Amazon EC2 (Elastic Compute Cloud) dan Amazon S3 menyediakan kapasitas komputasi dan penyimpanan skala besar yang dapat disesuaikan dengan kebutuhan.
+- Platform sebagai Layanan (PaaS):
+  - Pengembangan Aplikasi: Platform seperti Google App Engine dan Microsoft Azure App Service memungkinkan pengembang untuk fokus pada pengembangan aplikasi tanpa perlu mengelola infrastruktur di belakangnya.
+- Perangkat Lunak sebagai Layanan (SaaS):
+  - Aplikasi Produktivitas: Layanan seperti Google Workspace (sebelumnya G Suite) dan Microsoft 365 menyediakan aplikasi produktivitas (email, pengolah kata, spreadsheet) yang dapat diakses secara online.
+- Basis Data sebagai Layanan (DBaaS):
+  - Manajemen Basis Data: Layanan seperti Amazon RDS dan Azure SQL Database menyediakan manajemen basis data yang terkelola secara otomatis, menghilangkan kebutuhan untuk mengelola infrastruktur basis data secara langsung.
+- Penyediaan Konten dan Pengiriman (CDN):
+  - Konten dan Pengiriman: Layanan CDN seperti Amazon CloudFront dan Akamai mempercepat pengiriman konten dengan mendistribusikannya ke server di seluruh dunia, mengurangi waktu pemuatan halaman web dan meningkatkan kinerja.
+- Manajemen Identitas dan Keamanan:
+  - Manajemen Identitas: Layanan IAM (Identity and Access Management) memungkinkan pengguna mengontrol dan mengelola akses ke sumber daya cloud.
+  - Keamanan dan Kepatuhan: Layanan seperti AWS GuardDuty dan Azure Security Center membantu mendeteksi dan melindungi terhadap ancaman keamanan, sementara layanan kepatuhan membantu organisasi memenuhi persyaratan peraturan dan kebijakan keamanan.
+- Analisis dan Kecerdasan Buatan (AI):
+
+  - Analisis Data: Layanan seperti Amazon Redshift dan Google BigQuery menyediakan kapasitas analisis data skala besar.
+  - Kecerdasan Buatan: Layanan seperti AWS SageMaker dan Google AI Platform membantu dalam pembangunan, pelatihan, dan penerapan model kecerdasan buatan.
+
+- Pemulihan Bencana dan Ketahanan:
+  - Pemulihan Bencana: Layanan seperti AWS Backup dan Azure Site Recovery membantu organisasi membuat dan mengelola strategi pemulihan bencana.
+  - Elastisitas dan Ketahanan: Layanan cloud memungkinkan organisasi untuk mengelola beban kerja mereka dengan lebih elastis, mengukur sumber daya saat diperlukan dan menguranginya saat tidak diperlukan.
+- Pengujian dan Pengembangan:
+  - Lingkungan Pengembangan: Layanan seperti AWS Elastic Beanstalk dan Heroku menyediakan platform yang memfasilitasi pengembangan dan pengujian aplikasi.
+
+Layanan cloud memberikan fleksibilitas, skalabilitas, dan akses ke berbagai sumber daya IT tanpa perlu mengelola infrastruktur fisik secara langsung. Ini membuat organisasi dapat mengoptimalkan biaya, meningkatkan efisiensi, dan merespons lebih cepat terhadap perubahan kebutuhan bisnis.
+
+Semua layanan cloud mestinya sama sama baik, namun apabila saya mesti memilih, maka saya akan memilih layanan AWS. Karena Amazon Web Services (AWS) menonjol dengan sejumlah kelebihan yang menjadikannya pilihan populer dalam dunia cloud computing. Pertama-tama, AWS menawarkan skala global yang luas dengan pusat data tersebar di berbagai wilayah, memungkinkan pengguna untuk menyebarkan aplikasi mereka ke berbagai lokasi untuk meningkatkan kinerja dan keandalan. Selain itu, AWS menyediakan beragam layanan yang dapat disesuaikan dengan kebutuhan bisnis, mulai dari infrastruktur dasar hingga layanan tingkat tinggi untuk kecerdasan buatan dan analisis data. Kecepatan pengembangan juga menjadi keunggulan AWS, dengan kemampuan untuk dengan cepat menyusun, mendeploy, dan mengelola aplikasi melalui berbagai layanan seperti AWS Elastic Beanstalk dan AWS Lambda. Keamanan merupakan fokus utama AWS, dengan berbagai alat keamanan dan kebijakan manajemen akses yang kuat melalui layanan seperti AWS Identity and Access Management (IAM). Selain itu, model pembayaran berbasis penggunaan (pay-as-you-go) memberikan fleksibilitas biaya kepada pengguna, memungkinkan mereka membayar hanya untuk sumber daya yang mereka gunakan. Semua ini membuat AWS menjadi pilihan yang unggul bagi organisasi yang mencari solusi cloud computing yang andal, skalabel, dan inovatif.
+
+beginilah potret eksplorasi yang saya lakukan pada layanan ini.
+
+- Eksplorasi layanan amazon codeguru security
+  ![aws](https://github.com/madda123/UAS-PI/blob/main/poto/aws1.png)
+  AWS CodeGuru Security Hub adalah layanan dari Amazon Web Services (AWS) yang dirancang untuk membantu pengguna mengidentifikasi dan mengamankan aplikasi cloud mereka.
+- Mempelajari fitur fitur pada AWS
+  ![aws](https://github.com/madda123/UAS-PI/blob/main/poto/aws2.png)
+  ![aws](https://github.com/madda123/UAS-PI/blob/main/poto/aws3.png)
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 
