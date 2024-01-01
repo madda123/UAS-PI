@@ -169,7 +169,7 @@ Mengulas tugas UTS sebelumnya, dimana saya membuat website sebagai pemenuhan tug
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Referensi []
+Re
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
