@@ -169,7 +169,16 @@ Mengulas tugas UTS sebelumnya, dimana saya membuat website sebagai pemenuhan tug
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
-Re
+Pada daasarnya, teknik SEO ini terbagi menjadi dua, ada yang on page dan ada pula yang off page. On page sendiri adalah serangkaian praktik yang bisa kita lakukan di dalam halaman website untuk meningkatkan peringkat dan relevansi dalam hasil pencarian mesin telusur. Contoh dari on page SEO ini seperti pemaksimalan dalam pemberian tags suatu website, sehingga setiap suatu pencarian yang relevan dengan website akan otomatis membuat website kita muncul, begini potret pemaksimalan SEO yang saya lakukan pada blog saya.
+
+- On page SEO
+  ![wp](https://github.com/madda123/UAS-PI/blob/main/poto/wp.png)
+  Disamping on page SEO, ada juga off page SEO yang memiliki pengertian serangkaian teknik yang dilakukan di luar halaman suatu situs web dengan tujuan meningkatkan otoritas, kepercayaan, dan peringkat situs tersebut di mesin pencari. Contoh dari off page SEO ini seperti penyisipan link website kita pada website orang lain, sehingga ada kemungkinan pengunjung website tersebut mengunjungi website kita pula.
+  Begini potret pengaplikasiannya.
+- Off page SEO
+  ![wp](https://github.com/madda123/UAS-PI/blob/main/poto/wp2.png)
+  saya menyisipkan link pada kata penghafalan, yang mana nantinya ketika pengguna menekan tombol tersebut, maka akan pindah halaman ke wesite milik teman saya jashima.
+  ![wp](https://github.com/madda123/UAS-PI/blob/main/poto/wp3.png)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 
