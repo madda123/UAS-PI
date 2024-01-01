@@ -187,6 +187,26 @@ Pada daasarnya, teknik SEO ini terbagi menjadi dua, ada yang on page dan ada pul
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+Hoppscotch adalah sebuah aplikasi yang memudahkan pengguna untuk membuat dan mengelola HTTP requests serta menjelajahi API. Berikut adalah panduan singkat untuk melakukan HTTP request dan mengakses web API menggunakan hoppscotch:
+Instalasi Hoppscotch:
+
+- Kunjungi situs web resmi Hoppscotch (https://hoppscotch.io/) atau unduh aplikasinya dari toko aplikasi terkait (seperti Chrome Web Store).
+- Ikuti petunjuk instalasi yang ada untuk sistem operasi atau browser yang Anda gunakan.
+- Setelah instalasi selesai, buka aplikasi Hoppscotch.
+- Pada tampilan utama Hoppscotch, klik tombol "New Request" atau "New" untuk membuat request baru.
+- Beri nama pada request Anda.
+- Pilih metode HTTP yang sesuai (GET, POST, PUT, DELETE, dll.).
+- Tentukan URL target API yang ingin Anda akses.
+- Jika diperlukan, tambahkan header ke request Anda. Ini termasuk header seperti "Content-Type" atau header khusus lainnya yang diperlukan oleh API yang Anda gunakan.
+- Jika request Anda membutuhkan data dalam bentuk body (misalnya, untuk POST atau PUT), masukkan data tersebut di bagian body.
+- Setelah mengkonfigurasi request Anda, klik tombol "Send" untuk mengirim request ke API.
+- Hoppscotch akan menampilkan respons dari API. Anda dapat melihat status code, headers, dan body respons.
+- Hoppscotch memungkinkan Anda menyimpan request untuk digunakan kembali di masa depan. Anda dapat membuat koleksi untuk mengelola berbagai jenis request.
+
+Kurang lebih seperti itulah tahapan dalam melakukan HTTP request memakai hoppscotch, begini potret saya mencoba melakukan HTTP request.
+![http](https://github.com/madda123/UAS-PI/blob/main/poto/http.png)
+Pada percobaan ini, saya menggunakan pihak ketiga untuk membantu, yaitu web reqres dimana web ini berfungsi sebagai layanan yang menyediakan API untuk pengembangan web dan pengujian perangkat lunak. Reqres menyediakan endpoint API yang dapat diakses secara publik untuk berbagai keperluan, seperti pengujian, simulasi respons HTTP, dan demonstrasi fungsi CRUD (Create, Read, Update, Delete).
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
