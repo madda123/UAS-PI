@@ -200,6 +200,8 @@ Untuk mencoba web hosting halaman htm tentunya hal pertama yang perlu kita siapk
 - Hasil hosting web
   ![hasil](https://github.com/madda123/UAS-PI/blob/main/poto/hasilweb.png)
 
+Karena mencoba hosting web ini saya jadi tau letak kesalahan pada pembuatan website saya, ternyata format nama dari html itu sendiri mesti bernama index dan tidak boleh ada index yang kedua dan ketiga juga seterusnya. Ini menjadi pelajaran penting bagi saya untuk membuat website seterusnya
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
