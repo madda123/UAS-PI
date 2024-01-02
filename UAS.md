@@ -187,6 +187,19 @@ Pada daasarnya, teknik SEO ini terbagi menjadi dua, ada yang on page dan ada pul
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+Untuk mencoba web hosting halaman htm tentunya hal pertama yang perlu kita siapkan adalah html itu sendiri. Sebenarnya html nya saja sudah cukup bisa kita publish, namun ada baiknya semua itu dibuat sedemikian rupa sehingga menjadi web yang enak dilihat juga interaktif menggunakan setidaknya css dan javascript. Pada percobaan ini saya akan menggunakan tugas UTS pada mata kuliah pengenalan informatika, yang merupakan web jual beli produk bakso. Walaupun belum bisa berfungsi sebagaimana mestinya, namun untuk mencoba hosting saya rasa cukup. Beginilah langkah langkah yang saya lakukan untuk mencobanya:
+
+- Memilih dan mencari domain sesuai yang kita inginkan
+  ![domain](https://github.com/madda123/UAS-PI/blob/main/poto/domain.png)
+- Memilih paket hosting yang kita inginkan
+  ![hosting](https://github.com/madda123/UAS-PI/blob/main/poto/hosting.png)
+- Melakukan pembayaran
+  ![bayar](https://github.com/madda123/UAS-PI/blob/main/poto/bayar.png)
+- Upload file website kita ke cPanel
+  ![up](https://github.com/madda123/UAS-PI/blob/main/poto/up.png)
+- Hasil hosting web
+  ![hasil](https://github.com/madda123/UAS-PI/blob/main/poto/hasilweb.png)
+
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
